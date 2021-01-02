@@ -22,3 +22,10 @@ that is repeated at least once.
 
 We now need to know what will be the character system that will be used. There are two 
 common options, Ascii and Unicode.
+
+--
+We will assume for the sake of argument that the character set encoding used is the extended ascii.
+This means that there will be a maximum number of allowable characters of 256 characters. 
+
+--
+If the string is larger than 256 we know by the pigeon whole principle that not all of the characters on the string are unique. 
