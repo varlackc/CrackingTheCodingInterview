@@ -8,6 +8,10 @@ Input: "Mr John Smith ", 13
 Output: "Mr%20J ohn%20Smith"
 
 ## Description
+In this problem we want to create a program that can take a string as an input, 
+and return URL compatible output. One of the most important details to take into account,
+is the fact that URLs can not have spaces between characters. 
 
+In order to solve that problem, the spaces must be substituted by the character combination of %20. 
 
 # Solution
