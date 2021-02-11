@@ -7,6 +7,7 @@ Input: Tact Coa
 Output: True (permutations: "taco cat". "atco cta". etc.)
 
 ## Description
-
+In order to create this program we first must have an idea of the problem that we are trying to solve. The first step is to undestand what is a palindrome. We can think of a palindrom as a 
+word that can be written the same way weather the text is read from left to right or from right to left. 
 
 # Solution
