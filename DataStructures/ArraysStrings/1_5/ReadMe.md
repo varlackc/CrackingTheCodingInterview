@@ -9,6 +9,6 @@ pale. bale -> true
 pale. bake -> false
 
 ## Description
-
+In this exercise we want to find out how many modifications are needed to go from one string to another. 
 
 # Solution
