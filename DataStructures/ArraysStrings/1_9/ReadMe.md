@@ -5,6 +5,6 @@ of another. Given two strings, 51 and 52, write code to check if 52 is a rotatio
 call to isSubstring (e.g., "waterbottle" is a rotation of"erbottlewat").
 
 ## Description
-
+In this exercise we want to see if the characters in two strings are the same. 
 
 # Solution
