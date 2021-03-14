@@ -1,11 +1,7 @@
-# Cracking The Coding Interview Exercise 5.6 Conversion
+# Cracking The Coding Interview Exercise 5.7 Pairwise Swap
 
-Write a function to determine the number of bits you would need to flip to convert
-integer A to integer B.
-EXAMPLE
-Input: 29 (or: 111101), 15 (or: 101111)
-Output: 2
-
+Write a program to swap odd and even bits in an integer with as few instructions as
+possible (e.g., bit 13 and bit 1 are swapped, bit 2 and bit 3 are swapped, and so on).
 
 ## Description
 
