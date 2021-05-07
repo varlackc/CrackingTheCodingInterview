@@ -1,12 +1,13 @@
 # Decifrando La Entrevista De Programacion Ejercicio 1.1 Es Unico (Cracking The Coding Interview Exercise 1.1 Is Unique)
 
 ## Descripcion
-En este ejercicio el usuario necesita implementar un algoritmo para determinar si todos los caracteres en una linea de texto son unitcos. Addicionalmente, el usuario debera de tratar de resolver el problema sin utilizar estructuras de datos addicionales fuera de los vectores (arrays) 
+En este ejercicio el usuario necesita implementar un algoritmo para determinar si todos los caracteres en una linea de texto son unitcos. Addicionalmente, el usuario debera de tratar de resolver el problema sin utilizar estructuras de datos addicionales fuera de los vectores (arrays). 
 
 
 # Solucion
-In this case we have to take into account that in some programming languages, strings are immutable. 
-This means that in order to display a modified version of the string, a new version of the string must be created. 
+En este case tendremos que tener en cuenta que en algunos lenguages de programacion, las lineas de texto (strings) son immutables. (no se pueden modificar). 
+Esto significa que para poder desplegar texto que ha sido modificado, una nueva version del texto debe de ser creado. 
+--
 
 In order to solve that problem, some of those languages use either a character array, or a string array. Since the data in the array can be modified, operations on the elements of the array can be made in order to solve string problems. 
 
