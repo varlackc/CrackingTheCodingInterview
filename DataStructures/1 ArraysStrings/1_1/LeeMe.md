@@ -5,11 +5,10 @@ En este ejercicio el usuario necesita implementar un algoritmo para determinar s
 
 
 # Solucion
-En este case tendremos que tener en cuenta que en algunos lenguages de programacion, las lineas de texto (strings) son immutables. (no se pueden modificar). 
+En este caso tendremos que tener en cuenta que en algunos lenguages de programacion, las lineas de texto (strings) son immutables. (no se pueden modificar). 
 Esto significa que para poder desplegar texto que ha sido modificado, una nueva version del texto debe de ser creado. 
---
 
-In order to solve that problem, some of those languages use either a character array, or a string array. Since the data in the array can be modified, operations on the elements of the array can be made in order to solve string problems. 
+Para poder resolver el problema, algunos lenguages de programacion utilizan un vector de caracteres (character array), o un vector de texto (string array). Debido a que los datos en un vector (array) pueden ser modificados, operaciones en los elementos del vector pueden ser ejecutadas para resolver el ejercicio modificando el texto. 
 
 ---
 
