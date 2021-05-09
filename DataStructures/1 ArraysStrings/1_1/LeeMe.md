@@ -10,10 +10,11 @@ Esto significa que para poder desplegar texto que ha sido modificado, una nueva 
 
 Para poder resolver el problema, algunos lenguages de programacion utilizan un vector de caracteres (character array), o un vector de texto (string array). Debido a que los datos en un vector (array) pueden ser modificados, operaciones en los elementos del vector pueden ser ejecutadas para resolver el ejercicio modificando el texto. 
 
----
+Nosotros tendremos una linea de texto (string) que sera analizada. 
+Tendremos que ver si algunos de los caracteres aparecen mas de una vez en el texto. 
 
-We will have a string that will be analized. 
-We have to see if a character appears more than once on the string. 
+El caso mas simple, es si hay mas characteres en el texto que caracteres disponibles en el conjuto de caracteres (character set). Debido al principio de los agujeros de paloma (pigeon hole principle), si hay mas caracteres en un texto que tipos de caracteres individuales permitidos en un conjunto de caracteres (character set), debido al principio de agujeros de paloma (pigeon hole principle) sabemos que existe al menos un character que se repetira al menos una vez. 
+---
 
 The easiest case, is if there are more characters than what are allowed on the 
 character set. By the pigeon hole principle, if there are more characters, 
