@@ -14,20 +14,10 @@ Nosotros tendremos una linea de texto (string) que sera analizada.
 Tendremos que ver si algunos de los caracteres aparecen mas de una vez en el texto. 
 
 El caso mas simple, es si hay mas characteres en el texto que caracteres disponibles en el conjuto de caracteres (character set). Debido al principio de los agujeros de paloma (pigeon hole principle), si hay mas caracteres en un texto que tipos de caracteres individuales permitidos en un conjunto de caracteres (character set), debido al principio de agujeros de paloma (pigeon hole principle) sabemos que existe al menos un character que se repetira al menos una vez. 
----
 
-The easiest case, is if there are more characters than what are allowed on the 
-character set. By the pigeon hole principle, if there are more characters, 
-than there are individual characters allowed on a given character set, 
-then by the pigeon hole principle we know that there exists at least one character 
-that is repeated at least once. 
+Ahora nosotros necesitaremos saber cual sera el sistema de caracteres que se utilizara. Existen does opciones comunes, Ascii y Unicode. 
 
-We now need to know what will be the character system that will be used. There are two 
-common options, Ascii and Unicode.
+Vamos a asumir por razones del argumento que el conjuto de caracteres codificados a utilizar seara ascii extendido. 
+Esto significa que el maximo numero de caracteres disponibles seran 256 caracteres. 
 
---
-We will assume for the sake of argument that the character set encoding used is the extended ascii.
-This means that there will be a maximum number of allowable characters of 256 characters. 
-
---
-If the string is larger than 256 we know by the pigeon whole principle that not all of the characters on the string are unique. 
+Si el texto tiene mas de 256 caracteres entonces sabremos por el principio de agujeros de paloma que no todos los caracteres en el texto son unicos. 
