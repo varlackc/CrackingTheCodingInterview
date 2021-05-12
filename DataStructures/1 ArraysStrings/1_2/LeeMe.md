@@ -1,4 +1,4 @@
-# Cracking The Coding Interview Exercise 1.2 Check Permutation
+# Decifrando La Entrevista De Programacion Ejercicio 1.2 Verificar Permutaciones (Cracking The Coding Interview) 
 Check Permutation: Given two strings, write a method to decide if one is a permutation of the
 other.
 
