@@ -3,6 +3,8 @@
 ## `Description`
 In this exercise the user needs to implement an algorithm to determine if a string has all unique characters. In addition, the user must try to solve the problem without using any additional data structures outside of arrays. 
 
+---
+
 ## `Solution`
 In this case we have to take into account that in some programming languages, strings are immutable. 
 This means that in order to display a modified version of the string, a new version of the string must be created. 
