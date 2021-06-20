@@ -1,37 +1,20 @@
-#  Decifrando La Entrevista De Programacion Ejercicio 1.3 URLificar (Cracking The Coding Interview)
-URLify: Write a method to replace all spaces in a string with '%20: You may assume that the string
-has sufficient space at the end to hold the additional characters, and that you are given the "true"
-length of the string. (Note: If implementing in Java, please use a character array so that you can
-perform this operation in place.)
-EXAMPLE
-Input: "Mr John Smith ", 13
-Output: "Mr%20J ohn%20Smith"
+#  Decifrando La Entrevista De Programacion `Ejercicio 1.3 URLificar` (Cracking The Coding Interview)
+**`URLify:`** Escribe un metodo para reemmplazar los espacios en en una linea de texto con '%20: puedes asumir que la linea de texto
+tiene suficiente espacio al final para recivir los caracteres adicionales, y que has recivido el tamaño "verdadero" de la linea de texto. (Nota: Si implementa el programa en Java, porfavor utilize el vector de caracteres para poder procesar la linea de texto.)
 
-## Description
-In this problem we want to create a program that can take a string as an input, 
-and return URL compatible output. One of the most important details to take into account,
-is the fact that URLs can not have spaces between characters. 
+EJEMPLO
 
-In order to solve that problem, the spaces must be substituted by the character combination of %20. 
+**`Entrada:`** "Mr John Smith ", 13
+**`Salida:`** "Mr%20John%20Smith"
 
-# Solution
+---
 
-----
+## `Descripcion`
+En este problema queremos crear un programa que pueda tomar una linea de texto como valor de entrada, 
+y retornar un valor compatible con las reglas de URL como valor de salida. Uno de los detalles mas importantes a tomar encuenta, es el hecho de que los links de URL no puede tener espacios en blanco entre characteres. 
 
-#  Decifrando La Entrevista De Programacion Ejercicio 1.3 URLificar (Cracking The Coding Interview)
-URLify: Write a method to replace all spaces in a string with '%20: You may assume that the string
-has sufficient space at the end to hold the additional characters, and that you are given the "true"
-length of the string. (Note: If implementing in Java, please use a character array so that you can
-perform this operation in place.)
-EXAMPLE
-Input: "Mr John Smith ", 13
-Output: "Mr%20J ohn%20Smith"
+Para poder resolver el problema, el espacio debe de ser substituido por la combinacion de caracteres %20.
 
-## Description
-In this problem we want to create a program that can take a string as an input, 
-and return URL compatible output. One of the most important details to take into account,
-is the fact that URLs can not have spaces between characters. 
+---
 
-In order to solve that problem, the spaces must be substituted by the character combination of %20. 
-
-# Solution
+## `Solucion`

@@ -21,4 +21,4 @@ In order to solve that problem, the spaces must be substituted by the character 
 
 ---
 
-## Solution
+## `Solution`
