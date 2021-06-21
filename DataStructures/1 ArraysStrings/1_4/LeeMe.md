@@ -1,13 +1,16 @@
-# Cracking The Coding Interview Exercise 1.4 Palindrome Permutation
-Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome.
-A palindrome is a word or phrase that is the same forwards and backwards. A permutation
-is a rea rrangement of letters. The palindrome does not need to be limited to just dictionary words.
-EXAMPLE
-Input: Tact Coa
-Output: True (permutations: "taco cat". "atco cta". etc.)
+# Decifrando La Entrevista De Programacion `Ejercicio 1.4 Permutacion de Palíndromos`
+**`Permutacion de Palíndromo:`** Data una linea de texto, escribe una funcion para verificar si es una permutacion de un palíndromo.
+Un palíndromo es una palabra o frase que es la misma leida al derecho o al reves. Una permutacion es un rearreglo de letras. Un palíndromo no necesita estar limitado solo a palabras en un diccionario. 
 
-## Description
-In order to create this program we first must have an idea of the problem that we are trying to solve. The first step is to undestand what is a palindrome. We can think of a palindrom as a 
-word that can be written the same way weather the text is read from left to right or from right to left. 
+Ejemplo
 
-# Solution
+**`Entrada:`** Tact Coa
+
+**`Salida:`** True (permutaciones: "taco cat". "atco cta". etc.)
+
+## `Descripcion`
+Para poder crear este programa primero debemos de tener una idea del problema que estamos tratando de resolver. El primer paso es comprender que es un palindromo. Podemos pensar en un palíndromo como una palabra que puede ser escrita de la misma forma si el texto es leido de izquierda a derecha, como de derecha a izquierda. 
+
+---
+
+## `Solucion`
