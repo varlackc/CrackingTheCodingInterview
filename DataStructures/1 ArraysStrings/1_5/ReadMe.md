@@ -6,9 +6,9 @@ one edit (or zero edits) away.
 EXAMPLE
 
 pale, pIe -> true
-pales. pale -> true
-pale. bale -> true
-pale. bake -> false
+pales, pale -> true
+pale, bale -> true
+pale, bake -> false
 
 ## `Description`
 In this exercise we want to find out how many modifications are needed to go from one string to another. 
