@@ -1,11 +1,11 @@
-# Cracking The Coding Interview Exercise 1.6 String Compression
-String Compression: Implement a method to perform basic string compression using the counts
-of repeated characters. For example, the string aabcccccaaa would become a2b1c5a3. If the
-"compressed" string would not become smaller than the original string, your method should return
-the original string. You can assume the string has only uppercase and lowercase letters (a - z).
+# Decifrando La Entrevista De Programacion  `Ejercicio 1.6 Compresion de Texto`
+**`Compresion de Texto:`** Implementa un metodo para la compresion de caracteres basicos, utilizando la cuenta de repeticion de caracteres. Por ejemplo, el texto aabcccccaaa se convertiria en a2b1c5a3. si el texto 
+"compreso" no se convirtiera en mas pequeño que el texto original, su metodo debera de retornar el texto original. Usted puede asumir que el texto solo tiene letras mayusculas y minusculas (a - z).
 
-## Description
-In this exercise, we are trying to explore the concept of compression.
-In this case we are going to compress a string that has repeated characters. 
+## `Descripcion`
+En este ejercicio, nosotros trataremos de explorar el concepto de compresion. 
+En este caso nosotros comprimiremos un texto que contiene caracteres repetidos. 
 
-# Solution
+---
+
+## `Solucion`
