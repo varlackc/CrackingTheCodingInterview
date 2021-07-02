@@ -1,13 +1,14 @@
-# Cracking The Coding Interview Exercise 1.7 Rotate Matrix
-Rotate Matrix: Given an image represented by an NxN matrix, where each pixel in the image is 4
-bytes, write a method to rotate the image by 90 degrees. (an you do this in place)
+# Decifrando La Entrevista De Programacion `Ejercicio 1.7 Rotacion de Matriz`
+**`Rotacion de Matriz:`** Dada una imagen representada por una matriz de tamaño NxN, donde cada pixel en la imagen es 4
+bytes, escribe un metodo para rotar la imagen unos 90 grados. (has los cambios de lugar)
 
-## Description
-In this exercise we want to create a program that can manipulate images. 
-To be more specific, we want to create a program that can rotate an image 90 degrees. 
-In order to accomplish that task, we are going to have to represent the image in a way that the computer can understand. 
+## `Descripcion`
+En este ejercicio queremos crear un programa que pueda manipular imagenes.
+Para ser mas especificos, queremos crear un programa que pueda rotar una imagen 90 grados.
+Para lograr esta tarea, vamos a representar la imagen en una forma que la computadora pueda comprender. 
 
-In this case we will use a matrix to represent the image. Once we have the image in matrix form, 
-then we can use linear algebra in order to rotate the image. 
+En este caso vamos a utilizar una matriz para representar la imagen. Una vez tengamos la imagen representada con una matriz, entonces utilizaremos algebra lineal para poder rotar la imagen.
 
-# Solution
+---
+
+## `Solucion`
