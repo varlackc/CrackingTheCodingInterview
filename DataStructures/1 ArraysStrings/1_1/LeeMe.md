@@ -1,4 +1,4 @@
-# Decifrando La Entrevista De Programacion Ejercicio 1.1 Es Unico (Cracking The Coding Interview Exercise 1.1 Is Unique)
+# Decifrando La Entrevista Tecnica `Ejercicio 1.1 Es Unico`
 
 ## `Descripcion`
 En este ejercicio el usuario necesita implementar un algoritmo para determinar si todos los caracteres en una linea de texto son unitcos. Addicionalmente, el usuario debera de tratar de resolver el problema sin utilizar estructuras de datos addicionales fuera de los vectores (arrays). 
