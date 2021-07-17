@@ -1,4 +1,5 @@
-#  Decifrando La Entrevista De Programacion `Ejercicio 1.3 URLificar` (Cracking The Coding Interview)
+#  Decifrando La Entrevista Tecnica `Ejercicio 1.3 URLificar`
+
 **`URLify:`** Escribe un metodo para reemmplazar los espacios en en una linea de texto con '%20: puedes asumir que la linea de texto
 tiene suficiente espacio al final para recivir los caracteres adicionales, y que has recivido el tamaño "verdadero" de la linea de texto. (Nota: Si implementa el programa en Java, porfavor utilize el vector de caracteres para poder procesar la linea de texto.)
 
