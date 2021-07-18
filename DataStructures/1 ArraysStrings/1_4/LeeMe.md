@@ -1,4 +1,5 @@
-# Decifrando La Entrevista De Programacion `Ejercicio 1.4 Permutacion de Palíndromos`
+# Decifrando La Entrevista Tecnica `Ejercicio 1.4 Permutacion de Palíndromos`
+
 **`Permutacion de Palíndromo:`** Data una linea de texto, escribe una funcion para verificar si es una permutacion de un palíndromo.
 Un palíndromo es una palabra o frase que es la misma leida al derecho o al reves. Una permutacion es un rearreglo de letras. Un palíndromo no necesita estar limitado solo a palabras en un diccionario. 
 
