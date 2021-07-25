@@ -1,4 +1,5 @@
-# Decifrando La Entrevista De Programacion `Ejercicio 1.7 Rotacion de Matriz`
+# Decifrando La Entrevista Tecnica `Ejercicio 1.7 Rotacion de Matriz`
+
 **`Rotacion de Matriz:`** Dada una imagen representada por una matriz de tamaño NxN, donde cada pixel en la imagen es 4
 bytes, escribe un metodo para rotar la imagen unos 90 grados. (has los cambios de lugar)
 
