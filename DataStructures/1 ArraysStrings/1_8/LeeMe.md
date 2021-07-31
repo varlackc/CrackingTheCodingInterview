@@ -1,4 +1,5 @@
-# Decifrando La Entrevista De Programacion `Ejercicio 1.8 Matriz Cero`
+# Decifrando La Entrevista Tecnica `Ejercicio 1.8 Matriz Cero`
+
 **`Matriz Cero:`** Escribe un algoritmo en el cual, si existe un elemento 0 en una matriz MxN, su columna y fila son cambiadas a 0. 
 
 ## `Descripcion`
