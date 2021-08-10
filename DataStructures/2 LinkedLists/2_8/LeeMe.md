@@ -1,15 +1,21 @@
-# Cracking The Coding Interview Exercise 2.8 Loop Detection
+# Decifrando la Entrevista Tecnica `Ejercicio 2.8 Deteccion de Buckle (ciclo)`
 
-Given a circular linked list, implement an algorithm that returns the node at the
-beginning of the loop.
-DEFINITION
-Circular linked list: A (corrupt) linked list in which a node's next pointer points to an earlier node, so
-as to make a loop in the linked list.
-EXAMPLE
-Input: A -) B -) C -) 0 -) E - ) C[thesameCasearlierl
-Output: C
+Dada una lista enlazada circular, implementa un algoritmo que retorne el nodo al principio del buckle.
 
-## Description
+DEFINICION
 
+**`Lista Enlazada Circular:`**
+Una lista enlazada (corrumpta) en la cual el puntero de un nodo esta apuntando al nodo anterior, para hacer un buckle en la lista enlazada.
 
-# Solution
+EJEMPLO
+
+**`Entrada:`** A -) B -) C -) 0 -) E - ) C
+[IgualQueElAnterior]
+
+**`Salida:`** C
+
+## `Descripcion`
+
+---
+
+## `Solucion`
