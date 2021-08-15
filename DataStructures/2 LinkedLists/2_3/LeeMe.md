@@ -1,13 +1,15 @@
-# Cracking The Coding Interview Exercise 2.3 Delete Middle Node
+# Decifrando la Entrevista Tecnica `Ejercicio 2.3 Borrar Nodo Intermedio`
 
-Delete Middle Node: Implement an algorithm to delete a node in the middle (i.e., any node but
-the first and last node, not necessarily the exact middle) of a singly linked list, given only access to
-that node.
-EXAMPLE
-Input: the node c from the linked list a - >b- >c - >d - >e- >f
-Result: nothing is returned, but the new linked list looks like a - >b- >d - >e- >f
+**`Borrar Nodo Intermedio:`** Implementa un algoritmo para borrar un nodo intermedio (por ejemplo, cualquier nodo excepto el primero o el ultimo, no necesariamente el nodo del centro) de una lista enlazada simple, dando solo accesso a ese nodo.
 
-## Description
+EJEMPLO
 
+**`Entrada:`** el nodo c de la lista enlazada a -> b -> c -> d -> e -> f
 
-# Solution
+**`Resultado:`** el resultado es la lista enlazada modificada que se ve de la siguiente forma a -> b -> d -> e -> f
+
+## `Description`
+
+---
+
+## `Solution`
