@@ -1,14 +1,15 @@
-# Cracking The Coding Interview Exercise 2.4 Partition
+# Decifrando la Entrevista Tecnica `Ejercicio 2.4 Particion`
 
-Write code to partition a linked list around a value x, such that all nodes less than x come
-before all nodes greater than or equal to x. lf x is contained within the list, the values of x only need
-to be after the elements less than x (see below). The partition element x can appear anywhere in the
-"right partition"; it does not need to appear between the left and right partitions.
-EXAMPLE
-Input: 3 -> 5 -> 8 -> 5 -> 10 -> 2 -> 1 [partition = 5)
-Output: 3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
+Escribe un programa para dividir una lista enlazada alrededor de un valor x, de modo que todos los nodos menores que x vienen antes que todos los nodos mayores que o iguales a x. Si x esta dentro de la lista, el valor de x solo necesita estar luego de los elementos menores a x (mas informacion debajo). El elemento x puede aparecer en cualquier lado en la "posicion correcta"; no necesita estar entre la izquierda y derecha de la particion.
 
-## Description
+EJEMPLO
 
+**`Entrada:`** 3 -> 5 -> 8 -> 5 -> 10 -> 2 -> 1 [particion = 5]
 
-# Solution
+**`Salida:`** 3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
+
+## `Descripcion`
+
+---
+
+## `Solucion`
