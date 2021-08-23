@@ -1,8 +1,9 @@
-# Cracking The Coding Interview Exercise 2.6 Palindrome
+# Decifrando la Entrevista Tecnica `Exercise 2.6 Palindromo`
 
-Implement a function to check if a linked list is a palindrome.
+Implementa una funcion para verificar si una lista enlazada es un palindromo
 
-## Description
+## `Descripcion`
 
+---
 
-# Solution
+## `Solucion`
