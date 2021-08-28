@@ -1,11 +1,9 @@
-# Cracking The Coding Interview Exercise 2.7 Intersection
+# Decifrando la Entrevista Tecnica `Ejercicio 2.7 Interseccion`
 
-Given two (singly) linked lists, determine if the two lists intersect. Return the intersecting
-node. Note that the intersection is defined based on reference, not value. That is, if the kth
-node of the first linked list is the exact same node (by reference) as the jth node of the second
-linked list, then they are intersecting.
+Dado que existen dos listas enlazadas, determina si las dos listas elazadas son intersectadas. Retorna el nodo de interseccion. Nota que la interseccion es determinada basada on la referencia, no en el valor del nodo. Esto significa que si el nodo numero K de la primera lista enlazada es el mismo nodo (por referencia) como el nodo J de la segunda lista enlazada, entonces ambas listas estan interseptadas.
 
-## Description
+## `Descripcion`
 
+---
 
-# Solution
+## `Solucion`
