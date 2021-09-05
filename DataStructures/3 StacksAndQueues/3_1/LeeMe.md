@@ -1,8 +1,9 @@
-# Cracking The Coding Interview Exercise 3.1 Three in One
+# Decifrando la Entrevista Tecnica `Ejercicio 3.1 Tres en Uno`
 
-Describe how you could use a single array to implement three stacks.
+Describe como puedes utilizar un solo vector estatico para implementar tres pilas (stacks).
 
-## Description
+## `Descripcion`
 
+---
 
-# Solution
+## `Solucion`
