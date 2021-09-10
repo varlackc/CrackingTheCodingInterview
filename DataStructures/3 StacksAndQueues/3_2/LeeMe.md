@@ -1,9 +1,9 @@
-# Cracking The Coding Interview Exercise 3.2 Stack Min
+# Decifrando la Entrevista Tecnica `Exercise 3.2 Stack Min`
 
-How would you design a stack which, in addition to push and pop, has a function min
-which returns the minimum element? Push, pop and min should all operate in 0(1) time.
+Como diseñarias una pila (stack), la pila debe de permitir el entrar los valores de la pila (push) y sacar valores de la pila (pop), debe de tener una funcion min la cual retorna el valor del elemento minimo? Push, Popy min deben todos de operar en complejidad de tiempo O(1).
 
-## Description
+## `Descripcion`
 
+---
 
-# Solution
+## `Solucion`
