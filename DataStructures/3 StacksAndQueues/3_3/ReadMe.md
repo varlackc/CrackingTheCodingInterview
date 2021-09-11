@@ -1,4 +1,4 @@
-# Cracking The Coding Interview Exercise 3.3 Stack of Plates
+# Cracking The Coding Interview `Exercise 3.3 Stack of Plates`
 
 Imagine a (literal) stack of plates. If the stack gets too high, it might topple.
 Therefore, in real life, we would likely start a new stack when the previous stack exceeds some
@@ -9,7 +9,8 @@ SetOfStacks. push () and SetOfStacks. pop () should behave identically to a sing
 FOLLOW UP
 Implement a function popAt (int index) which performs a pop operation on a specific sub-stack.
 
-## Description
+## `Description`
 
+---
 
-# Solution
+## `Solution`
