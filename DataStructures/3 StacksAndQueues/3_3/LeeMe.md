@@ -1,15 +1,17 @@
-# Cracking The Coding Interview Exercise 3.3 Stack of Plates
+# Decifrando la Entrevista Tecnica `Ejercicio 3.3 Pila de Platos`
 
-Imagine a (literal) stack of plates. If the stack gets too high, it might topple.
-Therefore, in real life, we would likely start a new stack when the previous stack exceeds some
-threshold. Implement a data structure SetOfStacks that mimics this. SetOfStacks should be
-composed of several stacks and should create a new stack once the previous one exceeds capacity.
-SetOfStacks. push () and SetOfStacks. pop () should behave identically to a single stack
-(that is, pop ( ) should return the same values as it would if there were just a single stack).
-FOLLOW UP
-Implement a function popAt (int index) which performs a pop operation on a specific sub-stack.
+Imagina (literalmente) una pila de platos. Si la pila llega a ser muy alta, la pila colapsara. 
+Por tanto, en la vida real, probablemente empezaremos una nueva pila cuando la pila anterior excede una altura especifica (Limite). Implementa una estructura de datos que sea un ConjuntoDePilas que imite el comportamiento del proceso previamente descrito. 
 
-## Description
+El ConjuntoDePilas debe de estar compuesto de varias pilas y debe de crear una nueva pila cuando la pila anterior excede la capacidad. ConjuntoDePilas.push() y ConjuntoDePilas.pop() deben de comportarse de modo identico a una pila simple. 
+(por tanto, pop() debe de retornar el mismo valor que si tuviera un stack simple).
 
+SIGUIENTE
 
-# Solution
+Implementa una funcion popEn (indice en valor entero int) el cual hace la operacion pop en una sub-pila especifica.
+
+## `Descripcion`
+
+---
+
+## `Solucion`
