@@ -1,4 +1,4 @@
-# Cracking The Coding Interview Exercise 3.6 Animal Shelter
+# Cracking The Coding Interview `Exercise 3.6 Animal Shelter`
 
 An animal shelter, which holds only dogs and cats, operates on a strictly"first in, first
 out" basis. People must adopt either the "oldest" (based on arrival time) of all animals at the shelter,
@@ -7,7 +7,8 @@ that type). They cannot select which specific animal they would like. Create the
 maintain this system and implement operations such as enqueue, dequeueAny, dequeueDog,
 and dequeueCat. You may use the built-in Linked List data structure.
 
-## Description
+## `Description`
 
+---
 
-# Solution
+## `Solution`
