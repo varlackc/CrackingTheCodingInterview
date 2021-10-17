@@ -1,10 +1,9 @@
-# Cracking The Coding Interview Exercise 1.9 String Rotation
+# Decifrando la Entrevista Tecnica Ejercicio 1.9 Rotacion de texto (string)
 
-String Rotation: Assume you have a method isSubst ring which checks if one word is a substring
-of another. Given two strings, 51 and 52, write code to check if 52 is a rotation of 51 using only one
-call to isSubstring (e.g., "waterbottle" is a rotation of"erbottlewat").
+Rotacion de texto (string): Asume que tienes un metodo anillo esSubTexto. Este metodo verifica si una palabra es un sub-texto de una cadena de texto mas grande. 
+Dados dos cadenas de texto, s1 y s2, escribe un programa que verifique si s2 es una rotacion de s1 utilizando una sola llamada al esSubTexto (e.g., "botelladeagua" es una rotacion de "uabotelladeag").
 
-## Description
-In this exercise we want to see if the characters in two strings are the same. 
+## Descripcion
+En este ejercicio nosotros queremos ver si los caracteres en dos cadenas de texto son las mismas. 
 
-# Solution
+# Solucion
