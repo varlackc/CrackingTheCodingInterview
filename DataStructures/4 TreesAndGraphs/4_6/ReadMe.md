@@ -5,5 +5,6 @@ binary search tree. You may assume that each node has a link to its parent.
 
 ## `Description`
 
+---
 
 ## `Solution`
