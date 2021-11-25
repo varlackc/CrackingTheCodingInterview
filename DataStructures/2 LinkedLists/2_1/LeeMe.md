@@ -1,10 +1,10 @@
-# Cracking The Coding Interview Exercise 2.1 Remove Dups
+# Decifrando la Entrevista Tecnica Ejercicio 2.1 Remover Duplicados
 
-Remove Dups: Write code to remove duplicates from an unsorted linked list.
-FOLLOW UP
-How would you solve this problem if a temporary buffer is not allowed?
+Remover Duplicados: Escribe un programa para remover duplicados de una lista enlazada.
+SEGUIMIENTO
+¿Cómo resolverias este problema si un búfer temporal no esta permitido?
 
-## Description
+## Descripción
 
 
-# Solution
+# Solución
