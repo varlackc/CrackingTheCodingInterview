@@ -1,4 +1,4 @@
-# Cracking The Coding Interview Exercise 5.1 Insertion
+# Cracking The Coding Interview `Exercise 5.1 Insertion`
 
 You are given two 32-bit numbers, Nand M, and two bit positions, i and
 j. Write a method to insert Minto N such that M starts at bit j and ends at bit i. You
@@ -9,7 +9,8 @@ EXAMPLE
 Input: N = 10,000,000,000 10011, i = 2, j = 6
 Output: N = 10,001,001,100
 
-## Description
+## `Description`
 
+---
 
-# Solution
+## `Solution`
