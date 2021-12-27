@@ -1,8 +1,9 @@
-# Cracking The Coding Interview Exercise 5.5 Debugger
+# Cracking The Coding Interview `Exercise 5.5 Debugger`
 
-Explain what the following code does: ( (n & (n -1) ) e) .
+Explain what the following code does: `( (n & (n - 1) ) e) .`
 
-## Description
+## `Description`
 
+---
 
-# Solution
+## `Solution`
