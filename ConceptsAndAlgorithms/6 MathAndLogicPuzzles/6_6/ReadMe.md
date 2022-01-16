@@ -1,4 +1,4 @@
-# Cracking The Coding Interview Exercise 6.6 Blue-Eyed Island
+# Cracking The Coding Interview `Exercise 6.6 Blue-Eyed Island`
 
 A bunch of people are living on an island, when a visitor comes with a strange
 order: all blue-eyed people must leave the island as soon as possible. There will be a flight out at
@@ -7,7 +7,8 @@ own (nor is anyone allowed to tell them). Additionally, they do not know how man
 blue eyes, although they do know that at least one person does. How many days will it take the
 blue-eyed people to leave?
 
-## Description
+## `Description`
 
+---
 
-# Solution
+## `Solution`
