@@ -1,9 +1,9 @@
-# Cracking The Coding Interview Exercise 8.8 Permutations with Dups
+# Cracking The Coding Interview `Exercise 8.8 Permutations with Dups`
 
-Write a method to compute all permutations of a string whose characters
-are not necessarily unique. The list of permutations should not have duplicates.
+Write a method to compute all permutations of a string whose characters are not necessarily unique. The list of permutations should not have duplicates.
 
-## Description
+## `Description`
 
+---
 
-# Solution
+## `Solution`
