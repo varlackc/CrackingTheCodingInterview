@@ -1,9 +1,9 @@
 # Decifrando La Entrevista De Tecnica `Ejercicio 2.2 Retornar desde el valor K al ultimo valor`
 
-**`Retornar desde el valor K al ultimo valor:`** Implement an algorithm to find the kth to last element of a singly linked list.
+**`Retornar desde el valor K al ultimo valor:`** Implementa un algoritmo para encontrar el k-ésimo elemento contando desde el final de una lista enlazada simple.
 
-## `Descripcion`
+## `Descripción`
 
 ---
 
-## `Solucion`
+## `Solución`
