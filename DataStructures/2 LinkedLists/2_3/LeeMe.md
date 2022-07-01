@@ -8,8 +8,8 @@ EJEMPLO
 
 **`Resultado:`** el resultado es la lista enlazada modificada que se ve de la siguiente forma a -> b -> d -> e -> f
 
-## `Description`
+## `Descripción`
 
 ---
 
-## `Solution`
+## `Solución`
